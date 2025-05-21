@@ -1,0 +1,36 @@
+.head{
+    text-align: center;
+    color: blueviolet;
+    background-color: rgb(176, 150, 150);
+}
+
+.title{
+    color: rgb(202, 240, 144);
+    text-align: center;
+    padding-top: 10px;
+}
+
+.bodycontainer{
+    background-color: darkgray;
+    min-height: 100vh;
+  width: 100vw;
+}
+
+.button {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 12px 30px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.image{
+    text-align: center;
+    padding-top: 30px;
+}
